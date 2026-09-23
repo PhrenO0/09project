@@ -1,6 +1,8 @@
 **/node_modules/
 **/.expo/
 **/dist/
+**/.expo-web-check/
+**/.claude/
 **/web-build/
 .work/
 .env
