@@ -1,0 +1,14 @@
+{
+  "name": "09project",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix apps/mobile start",
+    "web": "npm --prefix apps/mobile run web -- --localhost",
+    "typecheck": "npm --prefix apps/mobile run typecheck",
+    "test": "node --test scripts/*.test.mjs",
+    "verify": "npm run typecheck && npm test",
+    "export": "npm --prefix apps/mobile run export",
+    "checkpoint": "node scripts/snapshot.mjs"
+  },
+  "engines": { "node": ">=24 <25" }
+}

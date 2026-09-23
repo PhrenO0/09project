@@ -30,6 +30,7 @@ npm run checkpoint  # 로컬 작업 상태 저장
 - [아키텍처와 다음 작업 큐](docs/ARCHITECTURE.md)
 - [출판사 협업 초안](docs/PARTNERSHIP.md)
 - [오픈소스 후보·라이선스](docs/research/opensource-inventory.md)
+- [UI·UX·기능·운영·사업화 GitHub 오픈소스 전체 스택](docs/research/opensource-business-stack.md)
 - [중단 복구·모델 배분·토큰 절감 운영](docs/WORKFLOW.md)
 - [실제 검증과 미검증 범위](docs/VALIDATION.md)
 - [출처/라이선스 고지](THIRD_PARTY_NOTICES.md)
